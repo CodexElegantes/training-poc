@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CT Inventory</string>
+    <string name="android_inventory">Android Inventory List</string>
+    <string name="ios_inventory">iOS Inventory List</string>
+    <string name="edit_entry">Edit</string>
+    <string name="add_entry">Add</string>
+    <string name="new_entry_details">Add New Entry Details</string>
+    <string name="save_new_entry">Save</string>
+    <string name="cancel_new_entry">Cancel</string>
+    <string name="device_name">Device Name and Internal Storage</string>
+    <string name="device_user">Device Owner</string>
+</resources>
